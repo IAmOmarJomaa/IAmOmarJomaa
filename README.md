@@ -17,7 +17,7 @@ Currently focused on <b>GraphRAG</b>, <b>Time-Series Forecasting</b>, and <b>MLO
 <div align="left">
   <h2>🚀 Engineering Highlights</h2>
 
-  <h3>🧠 <a href="LINK_TO_YOUR_CHIMPANZEE_REPO">Project Chimpanzee: Autonomous GraphRAG Agent</a></h3>
+  <h3>🧠 <a href="[LINK_TO_YOUR_CHIMPANZEE_REPO](https://github.com/IAmOmarJomaa/project_chimpanzee)">Project Chimpanzee: Autonomous GraphRAG Agent</a></h3>
   <blockquote>Solving the "Lost in the Middle" problem in long-context retrieval.</blockquote>
   <ul>
     <li><b>Architecture:</b> Hybrid Retrieval (Neo4j Graph + LanceDB Vectors).</li>
@@ -25,13 +25,6 @@ Currently focused on <b>GraphRAG</b>, <b>Time-Series Forecasting</b>, and <b>MLO
     <li><b>Result:</b> Increased context fidelity by 15% over standard RAG baselines.</li>
   </ul>
 
-  <h3>📈 <a href="LINK_TO_YOUR_FORECASTING_REPO">Quantitative Time-Series Engine</a></h3>
-  <blockquote>Predicting volatility across 15 cryptocurrencies using Multi-Asset Ensembles.</blockquote>
-  <ul>
-    <li><b>Architecture:</b> Bi-LSTM + Regression Ensemble.</li>
-    <li><b>Key Tech:</b> TensorFlow/Keras, Hudgins' Features, Signal Processing.</li>
-    <li><b>Result:</b> Engineered a "Signal Consensus" dashboard for risk-adjusted trading.</li>
-  </ul>
 </div>
 
 <h2>🛠 Tech Stack</h2>
