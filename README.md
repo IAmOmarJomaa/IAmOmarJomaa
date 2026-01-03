@@ -14,10 +14,11 @@ I move beyond static models to build resilient, adaptive AI architectures.<br>
 Currently focused on <b>GraphRAG</b>, <b>Time-Series Forecasting</b>, and <b>MLOps</b>.
 </p>
 
+
 <div align="left">
   <h2>🚀 Engineering Highlights</h2>
 
-  <h3>🧠 <a href="[LINK_TO_YOUR_CHIMPANZEE_REPO](https://github.com/IAmOmarJomaa/project_chimpanzee)">Project Chimpanzee: Autonomous GraphRAG Agent</a></h3>
+  <h3>🧠 <a href="LINK_TO_CHIMPANZEE_REPO">Project Chimpanzee: Autonomous GraphRAG Agent</a></h3>
   <blockquote>Solving the "Lost in the Middle" problem in long-context retrieval.</blockquote>
   <ul>
     <li><b>Architecture:</b> Hybrid Retrieval (Neo4j Graph + LanceDB Vectors).</li>
@@ -25,7 +26,15 @@ Currently focused on <b>GraphRAG</b>, <b>Time-Series Forecasting</b>, and <b>MLO
     <li><b>Result:</b> Increased context fidelity by 15% over standard RAG baselines.</li>
   </ul>
 
+  <h3>⚡ <a href="LINK_TO_VULCAN_REPO">Project Vulcan: Edge LLM Orchestrator</a></h3>
+  <blockquote>Deploying 12B-parameter models on consumer hardware (6GB VRAM).</blockquote>
+  <ul>
+    <li><b>Architecture:</b> Hybrid Cloud-Edge Pipeline (WSL2 + Windows).</li>
+    <li><b>Key Tech:</b> 4-bit GGUF Quantization, LoRA Fine-Tuning, WebSocket Bridge.</li>
+    <li><b>Result:</b> Reduced memory footprint by 71% (23.8GB → 6.8GB).</li>
+  </ul>
 </div>
+
 
 <h2>🛠 Tech Stack</h2>
 <p>
