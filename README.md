@@ -65,11 +65,4 @@ Currently focused on <b>GraphRAG</b>, <b>Time-Series Forecasting</b>, and <b>MLO
   </a>
 </p>
 
-<h2>📊 GitHub Metrics</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=IAmOmarJomaa&show_icons=true&theme=radical" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IAmOmarJomaa&theme=radical" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IAmOmarJomaa&layout=compact&theme=radical" />
-
 </div>
