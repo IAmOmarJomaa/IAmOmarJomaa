@@ -18,7 +18,7 @@ Currently focused on <b>GraphRAG</b>, <b>Time-Series Forecasting</b>, and <b>MLO
 <div align="left">
   <h2>🚀 Engineering Highlights</h2>
 
-  <h3>🧠 <a href="[LINK_TO_CHIMPANZEE_REPO](https://github.com/IAmOmarJomaa/project_chimpanzee)">Project Chimpanzee: Autonomous GraphRAG Agent</a></h3>
+  <h3>🧠 <a href="https://github.com/IAmOmarJomaa/project_chimpanzee">Project Chimpanzee: Autonomous GraphRAG Agent</a></h3>
   <blockquote>Solving the "Lost in the Middle" problem in long-context retrieval.</blockquote>
   <ul>
     <li><b>Architecture:</b> Hybrid Retrieval (Neo4j Graph + LanceDB Vectors).</li>
@@ -26,7 +26,7 @@ Currently focused on <b>GraphRAG</b>, <b>Time-Series Forecasting</b>, and <b>MLO
     <li><b>Result:</b> Increased context fidelity by 15% over standard RAG baselines.</li>
   </ul>
 
-  <h3>⚡ <a href="[LINK_TO_VULCAN_REPO](https://github.com/IAmOmarJomaa/Project-Vulcan)">Project Vulcan: Image generation</a></h3>
+  <h3>⚡ <a href="https://github.com/IAmOmarJomaa/Project-Vulcan">Project Vulcan: Image generation</a></h3>
   <blockquote>Deploying 12B-parameter models on consumer hardware (6GB VRAM).</blockquote>
   <ul>
     <li><b>Architecture:</b> Hybrid Pipeline (WSL2 + Windows).</li>
